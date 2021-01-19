@@ -13,5 +13,5 @@ We first train the baseline model with default parameters (embed_dim=64, batch_s
 For the project, we will use Recall@50 and NDCG@50 as the performance metrics. Our result shows that adding social weights does improve the performance of the model. Social information really helps to make better recommendations in this case. Our proposed model is able to encode the social
 information by assigning weights which illustrates the user-user interactions. Hence, we can outperform the standard non-social baseline model.
 
-![table.png](table.png)
+![table.png](images/table.png)
 
